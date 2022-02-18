@@ -4,6 +4,7 @@ Author: Grace E. Chesmore
 '''
 import numpy as np
 
+
 def rad2arcmin(x_arr):
     '''
     Convert radians to arcminutes.
