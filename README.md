@@ -8,3 +8,6 @@ Miscellaneous tutorials that I would've found helpful when I started learning ab
 
 ### Tutorials:
 * [Gain-normalization and Strehl ratio](gain_strehl.ipynb)
+    * This notebook explains how to calculate the Strehl ratio of a beam, and how to re-normalize the beam by its gain (converting the beam's units from dB beam to dBi).
+* [Telescope Apertures and their Beam Profiles](gain_strehl.ipynb)
+    * This notebook explains how to calculate the beam profile of a given telescope aperture.  Three geometries are shown: circular (e.g. Simons Observatory Large Aperture Telescope), circular with arms (e.g. NRAO), and hexagonal mirrors (e.g. James Webb Space Telescope).
